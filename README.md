@@ -1,2 +1,3 @@
-# style-guide
-Choice Style Guide
+# Choice Style Guide
+
+This is where we define our styles.
