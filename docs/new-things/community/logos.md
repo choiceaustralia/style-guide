@@ -16,7 +16,7 @@ All logos must be in PNG format. Never convert to JPEG.
 
 ## Negative space
 
-# Colour Palette
+## Colour Palette
 
 The colour palette included in the below images must be used. Remapping the colours is not permitted.
 
