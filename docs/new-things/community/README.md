@@ -2,4 +2,4 @@
 
 ## Assets
 
-* [Logo](logo.md)
+* [Logos](logos.md)

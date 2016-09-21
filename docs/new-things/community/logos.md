@@ -1,4 +1,4 @@
-# Logo
+# Logos
 
 The logo must always be in PNG format. Never convert to JPEG.
 
