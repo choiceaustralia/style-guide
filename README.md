@@ -1,8 +1,8 @@
 # Choice Style Guide
 
-Version 0.1.1
+Version 0.2.0
 
-This is where we define our styles.
+This is where we define our style guide. See the [docs](docs/README.md).
 
 ## Contributing
 
