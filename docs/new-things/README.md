@@ -1,3 +1,3 @@
 # New Things
 
-* [Community](new-things/README.md)
+* [Community](community/README.md)
