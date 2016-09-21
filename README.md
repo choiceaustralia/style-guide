@@ -1,4 +1,4 @@
-# Choice Style Guide
+# CHOICE Style Guide
 
 Version 0.2.0
 
