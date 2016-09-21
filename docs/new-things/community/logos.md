@@ -1,6 +1,6 @@
 # Logos
 
-The logo must always be in PNG format. Never convert to JPEG.
+All logos must be in PNG format. Never convert to JPEG.
 
 ## Available Versions
 
@@ -13,7 +13,7 @@ Right click and download.
 | Logo, stacked               | 690x215 - 82Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18696452/9daecd72-7ffc-11e6-9c73-e25c4c251cf8.png" width="395">        |
 | Icon, Large                 | 512x300 - 12Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18696451/99eeb440-7ffc-11e6-8cab-905a8ea27fb6.png" with="395"> |
 
-
+CHOICE logos are the subject of copyright.
 
 
 [logo-small]: https://cloud.githubusercontent.com/assets/64749/18695653/a607666a-7ff6-11e6-8c7d-e80d728a961e.png
