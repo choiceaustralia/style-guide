@@ -27,9 +27,7 @@ Right click and download.
 | Image                       | Properties      | Use                                       | File                              |
 | --------------------------- | --------------- | ----------------------------------------- | --------------------------------- |
 | Logo, small, low resolution | 395x59 - 16Kb   | Web applications, HTML emails             | ![Small Logo][logo-small]         |
-| Logo, medium                | 690x107 - 45Kb | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18769152/f11fad88-816d-11e6-8b58-5e87c3634fad.png" width="395"> |
-| Logo, stacked               | 690x215 - 82Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18696452/9daecd72-7ffc-11e6-9c73-e25c4c251cf8.png" width="395">        |
-| Icon, Large                 | 512x300 - 12Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18696451/99eeb440-7ffc-11e6-8cab-905a8ea27fb6.png" with="395"> |
-
+| Logo, medium                | 690x107 - 45Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18769152/f11fad88-816d-11e6-8b58-5e87c3634fad.png" width="395"> |
+| Icon, Large                 | 512x300 - 12Kb  | Web applications                          | <img src="https://cloud.githubusercontent.com/assets/64749/18696451/99eeb440-7ffc-11e6-8cab-905a8ea27fb6.png" width="395"> |
 
 [logo-small]: https://cloud.githubusercontent.com/assets/64749/18769117/aa5bdd5e-816d-11e6-8fe1-e81ea3f2afaa.png
