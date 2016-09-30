@@ -111,6 +111,11 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header > ul {
+  padding-left: 0;
+  list-style: none;
+}
+
 strong {
   color:#222;
   font-weight:700;
