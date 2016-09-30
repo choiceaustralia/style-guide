@@ -1,8 +1,8 @@
 # CHOICE Style Guide
 
-Version 0.2.2
+Version 1.1.0
 
-This is where we define our style guide. See the [docs](docs/README.md).
+This is where we define our [Style Guide](https://choiceaustralia.github.io/style-guide/).
 
 ## Contributing
 
