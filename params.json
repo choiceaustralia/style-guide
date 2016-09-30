@@ -1,0 +1,6 @@
+{
+  "name": "Style Guide",
+  "tagline": "CHOICE Style Guide",
+  "body": "# CHOICE Style Guide\r\n\r\nVersion 0.2.2\r\n\r\nThis is where we define our style guide. See the [docs](docs/README.md).\r\n\r\n## Contributing\r\n\r\nThere is a work flow for contributing to this documentation. Please see [CONTRIBUTING.md](CONTRIBUTING.md)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
