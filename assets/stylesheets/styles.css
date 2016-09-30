@@ -48,10 +48,16 @@
   src: url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix') format('embedded-opentype'),
        local('Noto Sans Bold Italic'),
        local('Noto-Sans-700italic'),
-       url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2') format('woff2'),
+       url('../fonts/Noto-Sans-700italavic/Noto-Sans-700italic.woff2') format('woff2'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff') format('woff'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
        url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
+}
+
+#logo_choice {
+  background-image: url('/style-guide/assets/images/choicelogo.png');
+  background-repeat: no-repeat;
+  color: transparent;
 }
 
 body {
