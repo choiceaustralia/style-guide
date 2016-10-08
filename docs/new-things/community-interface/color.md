@@ -2,19 +2,13 @@
 layout: default
 ---
 
-<h1>
-  Community Interface - Colour Scheme and Palette
-</h1>
+# Community Interface - Colour Scheme and Palette
 
-{% include components/color_usage.html %}
+{% markdown components/color_usage.md %}
 
-<h2>
-  Colour Scheme
-</h2>
+## Colour Scheme
 
-<p>
-  Sass Variables:
-</p>
+Sass Variables:
 
 {% highlight sass %}
 // Font Colors
@@ -22,13 +16,9 @@ $base-font-color: $black;
 $action-color: $blue;
 {% endhighlight %}
 
-<h2>
-  Colour Palette
-</h2>
+## Colour Palette
 
-<p>
-  Sass Variables:
-</p>
+Sass Variables:
 
 {% highlight sass %}
 // Colors

@@ -2,21 +2,13 @@
 layout: default
 ---
 
-<h1>
-  Community - Colour Palette
-</h1>
+# Community - Colour Palette
 
-<p>
-  Community's colour scheme is maintained by discourse admin.
-</p>
+Community's colour scheme is maintained by discourse admin.
 
-<p>
-  See: <a href="https://choice.community/admin/customize/colors">https://choice.community/admin/customize/colors</a>
-</p>
+See: [https://choice.community/admin/customize/colors](https://choice.community/admin/customize/colors)
 
-<h2>
-  Colour Palette
-</h2>
+## Colour Palette
 
 <p>
 

@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<h1>
-  New Things - Community - Logos
-</h1>
+# New Things - Community - Logos
 
 {% markdown components/logo_usage.md %}
 

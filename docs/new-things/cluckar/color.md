@@ -2,15 +2,9 @@
 layout: default
 ---
 
-<h1>
-  Cluckar - Colour Palette
-</h1>
+# Cluckar - Colour Palette
 
-<h2>
-  Colour Palette
-</h2>
-
-<p>
+## Colour Palette
 
 <table>
   <tr>
@@ -29,5 +23,3 @@ layout: default
     <td style="background-color: rgba(0, 0, 0, 1);"></td>
   </tr>
 </table>
-
-</p>

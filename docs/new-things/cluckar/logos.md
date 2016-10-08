@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<h1>
-  New Things - CluckAR - Logos
-</h1>
+# New Things - CluckAR - Logos
 
 {% markdown components/logo_usage.md %}
 

@@ -2,19 +2,13 @@
 layout: default
 ---
 
-<h1>
-  New Things - Colour Scheme and Palette
-</h1>
+# New Things - Colour Scheme and Palette
 
-{% include components/color_usage.html %}
+{% markdown components/color_usage.md %}
 
-<h2>
-  Colour Scheme
-</h2>
+## Colour Scheme
 
-<p>
-  Sass Variables:
-</p>
+Sass Variables:
 
 {% highlight sass %}
   $s_foreground_heading: $foreground_dark;
@@ -24,9 +18,7 @@ layout: default
   $s_highlight_alternate: $brown_light;
 {% endhighlight %}
 
-<h2>
-  Colour Palette
-</h2>
+## Colour Palette
 
 <p>
 
@@ -65,9 +57,7 @@ layout: default
 
 </p>
 
-<p>
-  Sass variables
-</p>
+Sass variables
 
 {% highlight sass %}
 $foreground_dark: #444444;
