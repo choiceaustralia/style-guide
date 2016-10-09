@@ -4,7 +4,7 @@ layout: default
 
 # New Things - Community - Logos
 
-{% markdown components/logo_usage.md %}
+{% include components/logo_usage.md %}
 
 <table>
   <tr>

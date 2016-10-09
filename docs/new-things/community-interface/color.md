@@ -4,7 +4,7 @@ layout: default
 
 # Community Interface - Colour Scheme and Palette
 
-{% markdown components/color_usage.md %}
+{% include components/color_usage.md %}
 
 ## Colour Scheme
 
